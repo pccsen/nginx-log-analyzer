@@ -7,6 +7,9 @@ This project analyzes an Nginx access log and prints:
 - Top 5 response status codes
 - Top 5 user agents
 
+## Project URL
+https://roadmap.sh/projects/nginx-log-analyser
+
 ## Requirements
 
 - bash
